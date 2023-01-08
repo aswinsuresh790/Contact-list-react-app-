@@ -1,0 +1,31 @@
+.addbutton{
+    text-align: center;
+    margin-left: auto;
+ 
+    margin-bottom: 20px;
+    background-color: aliceblue;
+    padding: 10px;
+}
+.addbutton a{
+    width: 200px;
+   
+}
+.table-row {
+    background-color: aliceblue;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+   .edit{
+    max-width: 30px;
+   } 
+   .email{
+    max-width: 100px;
+   }   
+   th,td{
+    max-width: 205px;
+    
+   }
+   /* edit and delete width reduced to make  responsive design   */
+  }
