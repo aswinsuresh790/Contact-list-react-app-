@@ -1,3 +1,30 @@
+# contact-list-app-react
+
+This is Contact list app created using react ,In this the data are fetch from an api then the basic crud operation. 
+Adding new contact in the state ,Delete from state the given contact and edit the given details from  state .There is no any server interaction takeplace here
+redux is used as state ,
+all action takepalce at redux 
+
+
+# npm Start 
+start the react app
+
+# Add all the dependencies 
+redux ,React-redux 
+
+# Redux action
+Add contact,Delete contact,Edit contact and Read contact  
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
